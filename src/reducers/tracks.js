@@ -1,6 +1,5 @@
 const initialState = [
-		'Smells like spirit',
-		'Enter Sandman'
+		
 	]
 
 
